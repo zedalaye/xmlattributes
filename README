@@ -1,0 +1,9 @@
+This gem allow to access to xml attribute in rails3
+
+= Xml Attributes
+
+== Changelog
+
+  1.0.0 - Gem xml attributes with patch https://rails.lighthouseapp.com/projects/8994/tickets/1598-preserve-xml-attributes-with-hashfrom_xml-and-activeresource
+
+
